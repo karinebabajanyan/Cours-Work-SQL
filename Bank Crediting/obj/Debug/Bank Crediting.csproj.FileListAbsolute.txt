@@ -1,0 +1,18 @@
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\bin\Debug\Bank Crediting.exe.config
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\bin\Debug\Bank Crediting.exe
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\bin\Debug\Bank Crediting.pdb
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank Crediting.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Credit_Types.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Credit.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Customer_Data.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Employee_Page.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Guarantors.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Login.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Properties.Resources.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Repayment.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank Crediting.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank Crediting.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank Crediting.exe
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank Crediting.pdb
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.Select_Customer_Data.resources
+C:\Users\User\Source\Repos\Bank Crediting\Bank Crediting\obj\Debug\Bank_Crediting.ShowSelectedData.resources
